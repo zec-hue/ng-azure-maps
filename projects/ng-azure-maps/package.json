@@ -20,13 +20,13 @@
   },
   "peerDependencies": {
     "@angular/common": "~11.0.0",
-    "@angular/core": "~11.0.0",
+    "@angular/core": "~10.2.5",
     "azure-maps-control": "^2.0.29",
     "azure-maps-drawing-tools": "^0.1.4"
   },
   "devDependencies": {
     "@angular/common": "~11.0.0",
-    "@angular/core": "~11.0.0",
+    "@angular/core": "~10.2.5",
     "azure-maps-control": "^2.0.29",
     "azure-maps-drawing-tools": "^0.1.4"
   }
