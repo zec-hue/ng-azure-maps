@@ -13,7 +13,7 @@
   "dependencies": {
     "@angular/common": "~11.0.0",
     "@angular/compiler": "~11.0.0",
-    "@angular/core": "~11.0.0",
+    "@angular/core": "~19.2.18",
     "@angular/platform-browser": "~11.0.0",
     "@angular/platform-browser-dynamic": "~11.0.0",
     "azure-maps-control": "^2.0.23",
